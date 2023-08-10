@@ -1,3 +1,3 @@
-## DevOps Project for Beginners   
+## DevOps Project - CI/CD pipeline for a registration form
 
 
